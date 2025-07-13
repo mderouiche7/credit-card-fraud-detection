@@ -24,21 +24,7 @@ It aims to support financial institutions or analysts in identifying fraud with 
 
 - **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Size:** 284,807 transactions
-- **Fraud Rate:** ~0.17%
 - **Features:** `V1-V28` (PCA anonymized), `Time`, `Amount`, `Class`
-
----
-
-## ⚙️ Technologies Used
-
-- Python 3.11+
-- XGBoost
-- SHAP
-- scikit-learn
-- Pandas, NumPy, Matplotlib
-- Gradio
-- Hugging Face Spaces
-- Google Colab (for dev & training)
 
 ---
 
