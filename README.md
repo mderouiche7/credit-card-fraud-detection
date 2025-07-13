@@ -20,14 +20,6 @@ It aims to support financial institutions or analysts in identifying fraud with 
 
 ---
 
-## 📅 Dataset
-
-- **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- **Size:** 284,807 transactions
-- **Features:** `V1-V28` (PCA anonymized), `Time`, `Amount`, `Class`
-
----
-
 ## 🌟 Features
 
 - **Single prediction UI:** Input transaction data manually via sliders and receive fraud probability with SHAP bar explanation.
@@ -45,22 +37,9 @@ It aims to support financial institutions or analysts in identifying fraud with 
 🔴 Live App: [Launch on Hugging Face](https://huggingface.co/spaces/xkakashi/credit-card-fraud-app)
 
 ---
-🎡 Setup Instructions
-
-# Clone the repo
-$ git clone https://github.com/mderouiche7/credit-card-fraud-detection
-$ cd credit-card-fraud-detection
 
 
-### 🚀 Run the App (Optional if not using Hugging Face Space)
-
-```bash
-python app.py
-```
-
----
-
-### 🧠 Based On
+### 🧠 Inspired By:
 
 This project is inspired by:
 
