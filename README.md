@@ -30,13 +30,6 @@ It aims to support financial institutions or analysts in identifying fraud with 
 - **SHAP integration:** Visual insights into which features influenced the decision.
 - **Dot-based decimal validation:** Ensures correct input formatting.
 
----
-
-## 🌐 Live Demo
-
-> **Try it live on Hugging Face Spaces**:
->
-🔴 Live App: [Launch on Hugging Face](https://huggingface.co/spaces/xkakashi/credit-card-fraud-app)
 
 ---
 
