@@ -65,12 +65,6 @@ It aims to support financial institutions or analysts in identifying fraud with 
 $ git clone https://github.com/mderouiche7/credit-card-fraud-detection
 $ cd credit-card-fraud-detection
 
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run the app (optional if not using HF Space)
-$ python app.py
-
 
 ### 🚀 Run the App (Optional if not using Hugging Face Space)
 
