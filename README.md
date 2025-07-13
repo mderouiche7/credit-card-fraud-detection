@@ -71,31 +71,47 @@ $ pip install -r requirements.txt
 # Run the app (optional if not using HF Space)
 $ python app.py
 
-🧠 Based On
+
+### 🚀 Run the App (Optional if not using Hugging Face Space)
+
+```bash
+python app.py
+```
+
+---
+
+### 🧠 Based On
 
 This project is inspired by:
 
-📘 Practical Handbook: "Reproducible Machine Learning for Credit Card Fraud Detection – A Practical Handbook"
+- 📘 **Practical Handbook**: *Reproducible Machine Learning for Credit Card Fraud Detection – A Practical Handbook*  
+  [GitHub](https://github.com/username/project-link) <!-- Replace with real link -->
 
-GitHub
+- 📄 **Doctoral Thesis**: *Dal Pozzolo, Andrea. "Adaptive Machine Learning for Credit Card Fraud Detection"*  
+  [PDF](https://example.com/thesis.pdf) <!-- Replace with real link -->
 
-📄 Doctoral Thesis: Dal Pozzolo, Andrea. "Adaptive Machine Learning for Credit Card Fraud Detection"
+---
 
-PDF
+### 👨‍💻 Author
 
-👨‍💻 Author
+**Mohamed Derouiche**  
+[GitHub](https://github.com/mderouiche7) • [LinkedIn](https://www.linkedin.com/in/mohamed-derouiche-ba1843294)
 
-Mohamed Derouiche
+---
 
-GitHub
+### 🤝 Want to Contribute?
 
-LinkedIn
+Feel free to open issues or pull requests if you'd like to:
 
-🚀 Want to Contribute?
+- Add more models (e.g., LightGBM, Neural Nets)
+- Add Streamlit or FastAPI support
+- Improve visualizations (e.g., Plotly dashboards)
+- Enable real-time detection APIs
 
-Feel free to open issues or pull requests if you'd like to extend the app with more models, Streamlit support, advanced visualizations, or real-time APIs!
+---
 
-🔐 License
+### 🔐 License
 
-This project is open-sourced under the MIT License.
+This project is open-sourced under the **MIT License**.
+
 
