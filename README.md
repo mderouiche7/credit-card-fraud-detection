@@ -1,6 +1,8 @@
 # 💳 Credit Card Fraud Detection Dashboard
 
-[![HuggingFace Spaces](https://img.shields.io/badge/Gradio-App-blue?logo=gradio)](https://huggingface.co/spaces/mderouiche7/credit-card-fraud-app)
+[![HuggingFace Spaces](https://img.shields.io/badge/Gradio-App-blue?logo=gradio)](https://huggingface.co/spaces/xkakashi/credit-card-fraud-app)
+
+
 
 An interactive fraud detection web app powered by **XGBoost** and **SHAP**, allowing users to input transaction data and receive real-time fraud risk scoring and transparent feature attributions through an intuitive Gradio interface.
 
