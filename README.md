@@ -89,18 +89,6 @@ This project is inspired by:
 ### 👨‍💻 Author
 
 **Mohamed Derouiche**  
-[GitHub](https://github.com/mderouiche7) • [LinkedIn](https://www.linkedin.com/in/mohamed-derouiche-ba1843294)
-
----
-
-### 🤝 Want to Contribute?
-
-Feel free to open issues or pull requests if you'd like to:
-
-- Add more models (e.g., LightGBM, Neural Nets)
-- Add Streamlit or FastAPI support
-- Improve visualizations (e.g., Plotly dashboards)
-- Enable real-time detection APIs
 
 ---
 
