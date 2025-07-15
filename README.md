@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection Dashboard
+# Credit Card Fraud Detection Dashboard
 
 [![HuggingFace Spaces](https://img.shields.io/badge/Gradio-App-blue?logo=gradio)](https://huggingface.co/spaces/xkakashi/credit-card-fraud-app)
 
@@ -8,7 +8,7 @@ An interactive fraud detection web app powered by **XGBoost** and **SHAP**, allo
 
 ---
 
-## 🎓 Project Overview
+## Project Overview
 
 This project demonstrates a full **ML pipeline** for credit card fraud detection:
 - Data exploration & preprocessing
@@ -22,7 +22,7 @@ It aims to support financial institutions or analysts in identifying fraud with 
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Single prediction UI:** Input transaction data manually via sliders and receive fraud probability with SHAP bar explanation.
 - **Batch prediction UI:** Upload CSV files to detect fraud at scale.
@@ -34,25 +34,25 @@ It aims to support financial institutions or analysts in identifying fraud with 
 ---
 
 
-### 🧠 Inspired By:
+### Inspired By:
 
 This project is inspired by:
 
-- 📘 **Practical Handbook**: *Reproducible Machine Learning for Credit Card Fraud Detection – A Practical Handbook*  
+- **Practical Handbook**: *Reproducible Machine Learning for Credit Card Fraud Detection – A Practical Handbook*  
   [GitHub](https://github.com/username/project-link) <!-- Replace with real link -->
 
-- 📄 **Doctoral Thesis**: *Dal Pozzolo, Andrea. "Adaptive Machine Learning for Credit Card Fraud Detection"*  
+- **Doctoral Thesis**: *Dal Pozzolo, Andrea. "Adaptive Machine Learning for Credit Card Fraud Detection"*  
   [PDF](https://example.com/thesis.pdf) <!-- Replace with real link -->
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 **Mohamed Derouiche**  
 
 ---
 
-### 🔐 License
+### License
 
 This project is open-sourced under the **MIT License**.
 
